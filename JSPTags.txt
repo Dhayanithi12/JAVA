@@ -1,0 +1,5 @@
+<% %>   - Scriptlet
+<%= %>  - Expression
+<%! %>  - Declaration
+<%@ page import="?">
+<%!--     --%>  - Comment
